@@ -74,5 +74,4 @@ FinalData <- TidyData %>%
 
 # output table
 write.table(FinalData, "TidyData.txt", row.name=FALSE)
-FinalData
-
+cat("TidyData.txt has been created successfully.\n")
