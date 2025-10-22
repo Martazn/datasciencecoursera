@@ -1,4 +1,4 @@
-# Course 4:Getting and Cleaning Data Project
+# Course 3:Getting and Cleaning Data Project
 
 This repository contains the R script and documentation for the Coursera *Getting and Cleaning Data* course project.\
 The goal is to demonstrate how to collect, clean, and create a tidy dataset from the **Human Activity Recognition Using Smartphones** dataset.
